@@ -126,6 +126,7 @@ ab-testing-gcp-marketing-case-study/
 
 ---
 
-## Author
+## Authors
 
-Krishnan Santhanam
+Santhanakrishnan.J
+Periyanayaki.M
